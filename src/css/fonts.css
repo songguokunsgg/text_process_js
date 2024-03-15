@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Sauce Code Pro';
+    src: url('../fonts/SauceCodeProNerdFontMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+/* CSS 文件 */
+.textarea-custom {
+    font-size: 14pt !important;
+    font-family: 'Sauce Code Pro', monospace;
+  }
+  
